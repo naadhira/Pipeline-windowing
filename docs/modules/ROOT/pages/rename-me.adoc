@@ -3,7 +3,7 @@ Make sure to rename this file to the name of your repository and add the filenam
 ////
 
 // Describe the title of your article by replacing 'Tutorial template' with the page name you want to publish.
-= Tutorial template
+= Windowing Options for Pipelines
 // Add required variables
 :page-layout: tutorial
 :page-product: // Required: Define the product filter for this tutorial. Add one of the following: platform, imdg, cloud, operator
